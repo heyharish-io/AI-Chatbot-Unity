@@ -1,0 +1,11 @@
+.vs/
+.utmp/
+Library/
+Temp/
+Logs/
+UserSettings/
+Build/
+Builds/
+*.csproj
+*.user
+*.userprefs
